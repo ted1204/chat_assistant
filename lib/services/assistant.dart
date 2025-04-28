@@ -6,7 +6,7 @@ import 'package:http/http.dart' as http;
 
 class ChatService {
   static const String _apiKey =
-      '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'; // FIXME: Replace with your API key
+      ''; // FIXME: Replace with your API key
   // Assuming you have created an assistant and a thread beforehand and have their IDs
   static const _assistantId = 'asst_vsCxr1Fx4wlEotDtgHmBLUD7'; // friend
   static const String _threadId =
